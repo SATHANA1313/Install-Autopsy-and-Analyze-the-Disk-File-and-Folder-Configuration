@@ -51,7 +51,29 @@ Export or recover files if required for the investigation.
 8.Export selected files for further examination.
 
 ## OUTPUT:
-File and Folder Configuration Analysis Results
+Install and launch autospy
+
+<img width="1920" height="1200" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/a9fbbf1c-2afa-49e0-bd98-96a42eded7cc" />
+Case information
+<img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/e1a0c131-410d-4e5d-b4b0-cd8c68ad6cd6" />
+
+Select data source type
+
+<img width="1920" height="1200" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/231615c9-6bc8-4d0f-a6b6-74cc9676fe0a" />
+
+<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/4c7ea5ee-58a1-4b46-b92a-7ec570a80298" />
+
+Add data source
+
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/b8d7b63b-a885-4a1f-ac92-f73b0297d89a" />
+
+<img width="1920" height="1200" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/1178e9df-2893-4558-9a5d-dc3a68054cd5" />
+deleted files
+
+<img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/20d0e1ea-03a5-45b8-ab31-34d7b7592251" />
+
+report generated
+<img width="1920" height="1200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/a6c8b3fe-68a9-4d07-9284-c39d78147a7d" />
 
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
